@@ -1,0 +1,23 @@
+{
+    "name": "html-webpack-plugin-remove-script",
+    "version": "0.0.1",
+    "description": "html-webpack-plugin 插件的一个小插件，用于去除 template 中开发插入的 script 标签",
+    "main": "html-webpack-plugin-remove-script.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fegg/html-webpack-plugin-remove-script.git"
+    },
+    "keywords": [
+        "webpack",
+        "html-webpack-plugin"
+    ],
+    "author": "小撸",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fegg/html-webpack-plugin-remove-script/issues"
+    },
+    "dependencies": {
+        "colors": "^1.1.2"
+    }
+}
